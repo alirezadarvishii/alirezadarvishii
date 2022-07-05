@@ -14,7 +14,6 @@
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/alireza-darvishi/)
 [<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>](https://t.me/alirezadarvishi_me)
-[<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>](https://t.me/alirezadarvishi_me)
 [<img src="https://img.icons8.com/color/48/000000/gmail"/>](mailto:alirezadarvishi.me@gmail.com)
 
 
